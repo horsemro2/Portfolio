@@ -31,7 +31,7 @@ const Portfolio: React.FC = () => {
       id: 2,
       title: "Brand Identity Design",
       category: "graphic",
-      image: "public/taakeed.png",
+      image: "https://static.wixstatic.com/media/4b9d2b_4ba75c826a1b4308a6757ee924271032~mv2.png/v1/fill/w_980,h_534,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9d2b_4ba75c826a1b4308a6757ee924271032~mv2.png",
       description: "Complete brand identity package including logo design, color palette, typography, and brand guidelines.",
       technologies: ["Adobe Illustrator", "Adobe Photoshop"],
       link: "#"
