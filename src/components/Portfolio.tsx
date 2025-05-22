@@ -31,7 +31,7 @@ const Portfolio: React.FC = () => {
       id: 2,
       title: "Brand Identity Design",
       category: "graphic",
-      image: "https://images.pexels.com/photos/5913357/pexels-photo-5913357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "public/taakeed.png",
       description: "Complete brand identity package including logo design, color palette, typography, and brand guidelines.",
       technologies: ["Adobe Illustrator", "Adobe Photoshop"],
       link: "#"
