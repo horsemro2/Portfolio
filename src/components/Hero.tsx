@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
             ref={textRef}
             className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 text-white opacity-0 transform translate-y-8 transition-all duration-1000 ease-out"
           >
-            <span className="inline-block mx-2">Graphi designer</span>
+            <span className="inline-block mx-2">Graphic designer</span>
             <span className="inline-block mx-2">&</span>
             <span className="inline-block mx-2">Web devloper </span>
           </h1>
