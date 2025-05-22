@@ -22,7 +22,7 @@ const Portfolio: React.FC = () => {
       id: 1,
       title: "Modern E-commerce Website",
       category: "web",
-      image: "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "public/me.png",
       description: "A fully responsive e-commerce website with modern design, shopping cart functionality, and secure checkout process.",
       technologies: ["React", "Node.js", "Tailwind CSS", "Stripe"],
       link: "#"
