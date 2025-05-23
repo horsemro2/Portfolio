@@ -30,8 +30,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden mx-auto border-4 border-teal-500 animate-on-scroll opacity-0 transform translate-y-8 transition-all duration-1000 ease-out">
                 <img 
-                  src="public/azouii.png" 
-                  alt="anatxp" 
+                  src="public/azouii.png"alt="anatxp" 
                   className="w-full h-full object-cover"
                 />
               </div>
